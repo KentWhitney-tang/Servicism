@@ -1,7 +1,7 @@
 # Servicism
-The commons is older than capitalism, older than corporations, older than nations.
-It is the birthright of every community.
-We are restoring, not reinventing
+The commons is older than capitalism, older than corporations, older than nations.  
+It is the birthright of every community.  
+We are restoring, not reinventing  
 
 
 Shield: [![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
